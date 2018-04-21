@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Kriz1618/nodeJS#readme",
   "dependencies": {
+    "express": "^4.16.3",
     "https": "^1.0.0",
     "lodash": "^4.17.5",
     "node-fetch": "^2.1.2",
