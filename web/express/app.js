@@ -1,8 +1,9 @@
 const express = require('express')
 const app = express();
-
+// https://www.youtube.com/watch?v=tAmQZwMXvoE
 let isLogin = () => true;
-//milddewares
+
+//middlewar
 let logger = (req, res, next) => {
 	console.log('Peticion de tipo ', req.method);
 	next();
