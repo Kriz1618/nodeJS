@@ -2,3 +2,7 @@
 /node_modules
 
 package-lock.json
+
+/web/express-generator/pugcd-generator/node_modules
+
+/web/express-generator/hbs-generator/node_modules
